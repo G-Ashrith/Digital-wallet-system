@@ -41,7 +41,7 @@ The program reads input in the following format:
 4. m lines, each containing a sender ID, receiver ID, and the amount to be transferred.
 
 **Input Example:**
-![Digital Wallet Input](Digital-wallet-input.png)
+![Digital Wallet Input](Digital-wallet-Input.png)
 
 ### Output Example
 
